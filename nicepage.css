@@ -46581,11 +46581,23 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 532px;
+    min-height: 500px;
   }
 
   .u-footer .u-layout-wrap-1 {
+    margin-top: 54px;
+  }
+
+  .u-footer .u-layout-cell-1 {
+    min-height: 146px;
+  }
+
+  .u-footer .u-text-1 {
     margin-top: 0;
+  }
+
+  .u-footer .u-text-2 {
+    width: auto;
   }
 
   .u-footer .u-layout-cell-2 {
@@ -46593,12 +46605,16 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    margin-right: 6px;
-    margin-left: 197px;
+    height: 21px;
+    margin-top: 80px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-footer .u-image-1 {
-    margin-left: 8px;
+    margin-top: -32px;
+    margin-bottom: 58px;
+    margin-left: 0;
   }
 }
 
